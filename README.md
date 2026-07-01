@@ -72,7 +72,3 @@ https://www.consumerfinance.gov/data-research/consumer-complaints/
 A preprocessed sample used in this study is available at:
 https://drive.google.com/file/d/1njbqYd641H2w9Yw2jcdw6SHNKOQM1F4o/view
 
-## Dissertation
-
-This project is documented as a full MSc dissertation.
-📄 Available on request
