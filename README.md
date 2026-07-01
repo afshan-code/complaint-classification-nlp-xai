@@ -69,6 +69,6 @@ CCT College Dublin (2025).
 The CFPB Consumer Complaint Database is publicly available at:
 https://www.consumerfinance.gov/data-research/consumer-complaints/
 
-A preprocessed sample used in this study is available at:
-https://drive.google.com/file/d/1njbqYd641H2w9Yw2jcdw6SHNKOQM1F4o/view
+A sub-sample used in this study is available at:
+https://drive.google.com/file/d/1ytRawhTD13Np413r0tHI1RdpMnffLUhv/view?usp=sharing
 
